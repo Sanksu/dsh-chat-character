@@ -1,0 +1,4 @@
+# Register dsh-chat-character into a DSH profile (user layer insert).
+- insert:
+    - id: dsh-chat-character
+      name: 'dsh-chat-character'
